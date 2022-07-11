@@ -1,5 +1,5 @@
 // Fizzbuzz using js
-let output = [}
+let output = []
 let count = 1;
 
  function fizzbuzz(){
